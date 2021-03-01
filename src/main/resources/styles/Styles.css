@@ -1,0 +1,12 @@
+
+.btnGreen{
+	-fx-background-color:  #3cbc53;
+}
+
+.background{
+	-fx-background-color: GREY;
+}
+Button:hover{
+    -fx-cursor: hand;
+}
+
